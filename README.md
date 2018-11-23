@@ -7,3 +7,5 @@
 [MIPS-Core](https://github.com/alexskp/MIPS-Core)
 
 [matus-chochlik](https://github.com/matus-chochlik)
+
+[BenHanson](https://github.com/BenHanson)
