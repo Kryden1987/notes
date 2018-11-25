@@ -9,3 +9,7 @@
 [matus-chochlik](https://github.com/matus-chochlik)
 
 [BenHanson](https://github.com/BenHanson)
+
+[Timo Bingmann](https://github.com/bingmann)
+
+[Jonathan Beard](https://github.com/jonathan-beard)
