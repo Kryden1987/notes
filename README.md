@@ -13,3 +13,7 @@
 [Timo Bingmann](https://github.com/bingmann)
 
 [Jonathan Beard](https://github.com/jonathan-beard)
+
+[taylinn](https://github.com/tayllan/awesome-algorithms)
+
+[lsegal](https://github.com/lsegal/my_toy_compiler)
