@@ -17,3 +17,5 @@
 [taylinn](https://github.com/tayllan/awesome-algorithms)
 
 [lsegal](https://github.com/lsegal/my_toy_compiler)
+
+[adventuresinmachinelearning](http://adventuresinmachinelearning.com/)
