@@ -19,3 +19,5 @@
 [lsegal](https://github.com/lsegal/my_toy_compiler)
 
 [adventuresinmachinelearning](http://adventuresinmachinelearning.com/)
+
+[aimatters](https://aimatters.wordpress.com/)
