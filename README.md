@@ -23,3 +23,5 @@
 [aimatters](https://aimatters.wordpress.com/)
 
 [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
+
+[adventuresinML](https://github.com/adventuresinML)
