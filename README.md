@@ -25,3 +25,5 @@
 [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
 
 [adventuresinML](https://github.com/adventuresinML)
+
+[mc.ai](http://mc.ai/)
