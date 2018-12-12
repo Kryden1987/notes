@@ -29,3 +29,5 @@
 [mc.ai](http://mc.ai/)
 
 [towardsdatascience](https://towardsdatascience.com/)
+
+[kevinbeason](http://www.kevinbeason.com/)
