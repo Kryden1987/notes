@@ -33,3 +33,7 @@
 [kevinbeason](http://www.kevinbeason.com/)
 
 [acolyer](https://blog.acolyer.org/)
+
+[bluescarni](https://github.com/bluescarni)
+
+[symengine](https://github.com/symengine/symengine)
