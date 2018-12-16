@@ -37,3 +37,5 @@
 [bluescarni](https://github.com/bluescarni)
 
 [symengine](https://github.com/symengine/symengine)
+
+[openai](https://blog.openai.com/)
