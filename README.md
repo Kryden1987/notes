@@ -39,3 +39,5 @@
 [symengine](https://github.com/symengine/symengine)
 
 [openai](https://blog.openai.com/)
+
+[joboccara](https://github.com/joboccara)
