@@ -34,6 +34,7 @@
 
 [foonathan](https://foonathan.net/)
 
+[tinycc](https://github.com/TinyCC/tinycc)
 
 [Timo Bingmann](https://github.com/bingmann)
 
