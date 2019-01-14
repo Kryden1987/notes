@@ -51,3 +51,5 @@
 [symengine](https://github.com/symengine/symengine)
 
 [joboccara](https://github.com/joboccara)
+
+[zig](https://github.com/ziglang/zig)
