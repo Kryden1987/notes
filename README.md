@@ -14,6 +14,7 @@
 
 [aimatters](https://aimatters.wordpress.com/)
 
+[machinethink](https://machinethink.net/blog/)
 
 ### Разное
 
