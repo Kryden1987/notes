@@ -16,6 +16,8 @@
 
 [machinethink](https://machinethink.net/blog/)
 
+[data-flair](https://data-flair.training/)
+
 ### Разное
 
 [kevinbeason](http://www.kevinbeason.com/)
