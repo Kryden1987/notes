@@ -23,6 +23,8 @@
 [kevinbeason](http://www.kevinbeason.com/)
 [acolyer](https://blog.acolyer.org/)
 
+[python](https://python.ru/)
+
 ## Гитхабы
 
 [Hana Dusíková](https://github.com/hanickadot)
