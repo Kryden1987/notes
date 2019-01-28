@@ -18,6 +18,8 @@
 
 [data-flair](https://data-flair.training/)
 
+[mlperf](https://mlperf.org/)
+
 ### Разное
 
 [kevinbeason](http://www.kevinbeason.com/)
