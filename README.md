@@ -21,7 +21,7 @@
 [mlperf](https://mlperf.org/)
 
 ### Разное
-
+[martinbroadhurst](http://www.martinbroadhurst.com/)
 [kevinbeason](http://www.kevinbeason.com/)
 [acolyer](https://blog.acolyer.org/)
 
