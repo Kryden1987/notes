@@ -62,3 +62,5 @@
 [zig](https://github.com/ziglang/zig)
 
 [nlohmann](https://github.com/nlohmann)
+
+[swift](https://github.com/apple/swift)
