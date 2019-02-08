@@ -21,10 +21,15 @@
 [mlperf](https://mlperf.org/)
 
 ### Разное
+
 [martinbroadhurst](http://www.martinbroadhurst.com/)
+
 [kevinbeason](http://www.kevinbeason.com/)
+
 [acolyer](https://blog.acolyer.org/)
+
 [ericniebler](http://ericniebler.com/)
+
 [python](https://python.ru/)
 
 ## Гитхабы
@@ -64,3 +69,5 @@
 [nlohmann](https://github.com/nlohmann)
 
 [swift](https://github.com/apple/swift)
+
+[nvidia](https://github.com/NVIDIA/)
