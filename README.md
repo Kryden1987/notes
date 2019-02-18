@@ -72,6 +72,8 @@
 
 [nvidia](https://github.com/NVIDIA/)
 
+[jckarterhttps://github.com/jckarter](https://github.com/jckarter)
+
 ## Полезные ресурсы
 
 [IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
