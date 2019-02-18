@@ -71,3 +71,7 @@
 [swift](https://github.com/apple/swift)
 
 [nvidia](https://github.com/NVIDIA/)
+
+## Полезные ресурсы
+
+[IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
