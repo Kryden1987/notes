@@ -72,7 +72,7 @@
 
 [nvidia](https://github.com/NVIDIA/)
 
-[jckarterhttps://github.com/jckarter](https://github.com/jckarter)
+[jckarter](https://github.com/jckarter)
 
 ## Полезные ресурсы
 
