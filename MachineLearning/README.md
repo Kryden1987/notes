@@ -5,3 +5,5 @@
 [CMU-Perceptual-Computing-Lab](https://github.com/CMU-Perceptual-Computing-Lab)
 
 [goodfeli](https://github.com/goodfeli)
+
+[jbhuang0604](https://github.com/jbhuang0604)
