@@ -74,6 +74,8 @@
 
 [jckarter](https://github.com/jckarter)
 
+[tensorlayer](https://github.com/tensorlayer)
+
 ## Полезные ресурсы
 
 [IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
