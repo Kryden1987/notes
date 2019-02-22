@@ -32,6 +32,8 @@
 
 [python](https://python.ru/)
 
+[video_segment](https://github.com/videosegmentation/video_segment)
+
 ## Гитхабы
 
 [Hana Dusíková](https://github.com/hanickadot)
