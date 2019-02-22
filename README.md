@@ -78,6 +78,8 @@
 
 [tensorlayer](https://github.com/tensorlayer)
 
+[ChanChiChoi](https://github.com/ChanChiChoi)
+
 ## Полезные ресурсы
 
 [IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
