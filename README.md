@@ -20,6 +20,8 @@
 
 [mlperf](https://mlperf.org/)
 
+[fast.ai](https://www.fast.ai/)
+
 ### Разное
 
 [martinbroadhurst](http://www.martinbroadhurst.com/)
