@@ -30,6 +30,8 @@
 
 [acolyer](https://blog.acolyer.org/)
 
+[modernescpp](http://modernescpp.com/)
+
 [ericniebler](http://ericniebler.com/)
 
 [python](https://python.ru/)
@@ -81,6 +83,8 @@
 [tensorlayer](https://github.com/tensorlayer)
 
 [ChanChiChoi](https://github.com/ChanChiChoi)
+
+[ModernesCppSource](https://github.com/RainerGrimm/ModernesCppSource)
 
 ## Полезные ресурсы
 
