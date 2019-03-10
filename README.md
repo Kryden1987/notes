@@ -40,6 +40,8 @@
 
 ## Гитхабы
 
+[ssloy](https://github.com/ssloy)
+
 [Hana Dusíková](https://github.com/hanickadot)
 
 [BenHanson](https://github.com/BenHanson)
