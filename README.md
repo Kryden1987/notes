@@ -40,6 +40,8 @@
 
 [imo-official](http://www.imo-official.org/default.aspx)
 
+[hcmop](https://hcmop.wordpress.com/)
+
 ## Гитхабы
 
 [ssloy](https://github.com/ssloy)
