@@ -42,6 +42,10 @@
 
 [hcmop](https://hcmop.wordpress.com/)
 
+[terrytao](https://terrytao.wordpress.com/)
+
+[mathstrek](https://mathstrek.blog/)
+
 ## Гитхабы
 
 [ssloy](https://github.com/ssloy)
