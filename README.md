@@ -46,6 +46,8 @@
 
 [mathstrek](https://mathstrek.blog/)
 
+[divisbyzero](https://divisbyzero.com/)
+
 ## Гитхабы
 
 [ssloy](https://github.com/ssloy)
