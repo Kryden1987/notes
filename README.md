@@ -48,6 +48,8 @@
 
 [divisbyzero](https://divisbyzero.com/)
 
+[fabiensanglard](http://fabiensanglard.net/)
+
 ## Гитхабы
 
 [ssloy](https://github.com/ssloy)
