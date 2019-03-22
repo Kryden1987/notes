@@ -100,6 +100,8 @@
 
 [ModernesCppSource](https://github.com/RainerGrimm/ModernesCppSource)
 
+[lnqs](https://github.com/lnqs)
+
 ## Полезные ресурсы
 
 [IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
