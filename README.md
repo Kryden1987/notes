@@ -52,8 +52,6 @@
 
 ## Гитхабы
 
-[ssloy](https://github.com/ssloy)
-
 [Hana Dusíková](https://github.com/hanickadot)
 
 [BenHanson](https://github.com/BenHanson)
@@ -100,7 +98,13 @@
 
 [ModernesCppSource](https://github.com/RainerGrimm/ModernesCppSource)
 
+### Компьютерная графика
+
 [lnqs](https://github.com/lnqs)
+
+[ssloy](https://github.com/ssloy)
+
+[w23](https://github.com/w23/)
 
 ## Полезные ресурсы
 
