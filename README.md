@@ -106,6 +106,8 @@
 
 [w23](https://github.com/w23/)
 
+[JoeyDeVries](https://github.com/JoeyDeVries)
+
 ## Полезные ресурсы
 
 [IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
