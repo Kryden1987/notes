@@ -22,6 +22,8 @@
 
 [fast.ai](https://www.fast.ai/)
 
+[Packt](https://github.com/PacktPublishing)
+
 ### Разное
 
 [martinbroadhurst](http://www.martinbroadhurst.com/)
@@ -98,6 +100,10 @@
 
 [ModernesCppSource](https://github.com/RainerGrimm/ModernesCppSource)
 
+[danie](https://github.com/da-nie)
+
+[ermig](https://github.com/ermig1979)
+
 ### Компьютерная графика
 
 [lnqs](https://github.com/lnqs)
@@ -111,3 +117,7 @@
 ## Полезные ресурсы
 
 [IntrinsicsGuide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
+
+[astexplorer](https://astexplorer.net/)
+
+[regexper](https://regexper.com/)
