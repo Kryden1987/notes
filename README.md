@@ -104,6 +104,13 @@
 
 [ermig](https://github.com/ermig1979)
 
+
+### Операционные системы
+
+[KolibriOS](https://github.com/callcc/KolibriOS)
+
+[osdev](https://wiki.osdev.org/Expanded_Main_Page)
+
 ### Компьютерная графика
 
 [lnqs](https://github.com/lnqs)
