@@ -1,0 +1,59 @@
+
+
+
+
+Класс GCHeap определен в gc/gcimpl.h 
+
+GCHeap -> IGCHeapInternal -> IGCHeap
+
+GCHeap - всегда есть один экземпляр этого высокоуровневого API - он используется
+как интерфейс между сборщиком мусора и механизмом исполнения
+(они оба хранят глобальные экземпляры g_pGCHeap и g_theGCHeap). 
+
+
+IGCHeapInternal определен в gc/gc.h 
+
+IGCHeap определен в gc/gcinterface.h
+
+IGCHeap is the interface that the VM will use when interacting with the GC.
+
+
+В классе IGCHeapInternal определены API:
+
+unsigned GetMaxGeneration() - возвращает количество поколений
+
+
+В классе GCHeap определен метод:
+
+Object* Alloc (gc_alloc_context* acontext, size_t size, uint32_t flags);
+
+
+
+Класс Object определен в  vm/object.h
+
+Object - это представление управляемого объекта в куче GC.
+
+gc_alloc_context определен в  gc/gcinterface.h
+И хранит контекст выделения
+
+Куча для маленьких объектов (Small Objects Heap) и куча для больших объектов (Large Objects Heap, LOH)
+
+GCHeap::Alloc имплементирован в gc/gc.cpp
+
+
+
+Структура static_data определена в gc/gcpriv.h
+
+min_size - минимальный так называемый бюджет выделения. Строго связан с размером кэша процессора
+max_size - максимальный бюджет распределения
+
+fragmentation_limit и fragmentation_burden_limit - используется, когда решая, должны ли мы сжиматься,
+
+limit и max limit - используется для расчета роста генерации бюджет распределения
+
+time_clock - время, по истечении которого собирать генерацию, по производительности рассчитывает (см. QueryPerformanceCounter)
+
+gc_clock - количество GC, после которых нужно собрать поколение.
+
+Максимальный бюджет распределения для поколения 2 и кучи больших объектов ограничены только максимальным пределом адреса (SSIZE_T_MAX - половина размер слова) - это также имеет смысл, так как все долгожители
+объекты собираются в этих двух.
