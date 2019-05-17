@@ -54,6 +54,8 @@
 
 [mattwarren](https://mattwarren.org/)
 
+[yufeizhao](http://yufeizhao.com/)
+
 ## Гитхабы
 
 [Hana Dusíková](https://github.com/hanickadot)
@@ -105,6 +107,8 @@
 [danie](https://github.com/da-nie)
 
 [ermig](https://github.com/ermig1979)
+
+[rigtorp](https://github.com/rigtorp)
 
 
 ### Операционные системы

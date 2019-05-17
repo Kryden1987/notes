@@ -1,0 +1,8 @@
+Конфигурирование переменных для запуска 
+
+export COMPlus_GCConfigLogEnabled=1 и запускаем corerun
+
+В coreclr/hosts/unixcoreruncommon/coreruncommon.cpp проверка и сообщение "coreclr_initialize failed"
+
+
+coreclr::Initialize в  coreclr/hosts/coreshim/CoreShim.cpp
