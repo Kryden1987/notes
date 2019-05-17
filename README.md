@@ -56,6 +56,8 @@
 
 [yufeizhao](http://yufeizhao.com/)
 
+[putnum](https://kskedlaya.org/putnam-archive/)
+
 ## Гитхабы
 
 [Hana Dusíková](https://github.com/hanickadot)
