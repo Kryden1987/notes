@@ -60,6 +60,14 @@
 
 [imocanada](https://sites.google.com/site/imocanada/)
 
+[bit-player](http://bit-player.org/)
+
+[discreteanalysisjournal](https://discreteanalysisjournal.com)
+
+[bfilipek](https://www.bfilipek.com/)
+
+[fluentcpp](http://www.fluentcpp.com/)
+
 ## Гитхабы
 
 [Hana Dusíková](https://github.com/hanickadot)
