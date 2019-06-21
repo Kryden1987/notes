@@ -70,6 +70,7 @@
 
 [fluentcpp](http://www.fluentcpp.com/)
 
+
 ## Гитхабы
 
 [MIPS](https://github.com/MIPS)
@@ -128,6 +129,9 @@
 
 [rigtorp](https://github.com/rigtorp)
 
+[yandexdataschool](https://github.com/yandexdataschool)
+
+[serialbyter](https://github.com/serialbyter)
 
 ### Операционные системы
 
