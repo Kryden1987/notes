@@ -24,6 +24,18 @@
 
 [Packt](https://github.com/PacktPublishing)
 
+### Математика
+
+[putnum](https://kskedlaya.org/putnam-archive/)
+
+[yufeizhao](http://yufeizhao.com/)
+
+[imocanada](https://sites.google.com/site/imocanada/)
+
+[discreteanalysisjournal](https://discreteanalysisjournal.com)
+
+[bit-player](http://bit-player.org/)
+
 ### Разное
 
 [martinbroadhurst](http://www.martinbroadhurst.com/)
@@ -54,21 +66,15 @@
 
 [mattwarren](https://mattwarren.org/)
 
-[yufeizhao](http://yufeizhao.com/)
-
-[putnum](https://kskedlaya.org/putnam-archive/)
-
-[imocanada](https://sites.google.com/site/imocanada/)
-
-[bit-player](http://bit-player.org/)
-
-[discreteanalysisjournal](https://discreteanalysisjournal.com)
-
 [bfilipek](https://www.bfilipek.com/)
 
 [fluentcpp](http://www.fluentcpp.com/)
 
 ## Гитхабы
+
+[MIPS](https://github.com/MIPS)
+
+[clarsen](https://github.com/cslarsen)
 
 [Hana Dusíková](https://github.com/hanickadot)
 
