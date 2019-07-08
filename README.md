@@ -36,6 +36,8 @@
 
 [bit-player](http://bit-player.org/)
 
+[imc-math](http://www.imc-math.org/)
+
 ### Разное
 
 [martinbroadhurst](http://www.martinbroadhurst.com/)
