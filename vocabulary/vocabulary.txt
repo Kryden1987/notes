@@ -1,1 +1,27 @@
+-----------------------------Human body-----------------------------
+Human body  - Тело человека
+Head        - Голова
+Neck        - Шея
+Hand        - Рука, Кисть
+Leg         - Нога от бедра до ступни
+Hair        - Волосы
+Shoulder    - Плечо
+Arm         - Рука от кисти до плеча
+Finger      - Палец
+Foot (Feet) - Нога, Ступня
+Waist       - Талия
+Knee        - Колено
+Toe         - Палец ноги
+Elbow       - Локоть
+Wrist       - Запястье
+Thumb       - Большой палец руки
+Ankle       - Лодыжка
+--------------------------------------------------------------------
+
+
+
+
+Tom's present is big and expensive because his friends are _ (generous)(щедрый)
+
+
 
