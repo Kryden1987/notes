@@ -43,17 +43,31 @@ Money         - Деньги
 
 
 -----------------------------Handshake------------------------------
-Germ          - Микроб
-Fist          - Кулак 
-Graduation    - Окончание учебного заведения
-Greet         - Здороваться	
-Hug           - Объятие
-Loosely       - Плохо закреплено, Свободно
-Ridiculous    - Нелепо, Глупо
-Shake hands   - Пожать руки
-Sleeve        - Рукав
-Weapon        - Оружие
-
+Germ           - Микроб
+Fist           - Кулак 
+Graduation     - Окончание учебного заведения
+Greet          - Здороваться	
+Hug            - Объятие
+Loosely        - Плохо закреплено, Свободно
+Ridiculous     - Нелепо, Глупо
+Shake hands    - Пожать руки
+Sleeve         - Рукав
+Weapon         - Оружие
+Keep fit phr   - Поддерживать физическую форму 
+Mental health  - Душевное здоровье
+Trend          - Тенденция, Тренд
+Disease        - Болезнь, Заболевние
+Cancer         - Рак
+Exist          - Существовать
+Illness        - Болезнь, Заболевние
+Avoid          - Избегать, Уклоняться
+Junk food      - Вредная еда
+Plenty (of)    - Много
+Weight-lifting - Тяжелая атлетика
+Occasionally   - Время от времени, Иногда
+Reduce         - Уменьшать, Сокращать
+Crawl          - Ползать
+Hurt           - Болеть, Повредить
 
 Tom's present is big and expensive because his friends are _ (generous)(щедрый)
 
