@@ -42,6 +42,18 @@ Cup           - Чашка
 Money         - Деньги
 
 
+-----------------------------Handshake------------------------------
+Germ          - Микроб
+Fist          - Кулак 
+Graduation    - Окончание учебного заведения
+Greet         - Здороваться	
+Hug           - Объятие
+Loosely       - Плохо закреплено, Свободно
+Ridiculous    - Нелепо, Глупо
+Shake hands   - Пожать руки
+Sleeve        - Рукав
+Weapon        - Оружие
+
 
 Tom's present is big and expensive because his friends are _ (generous)(щедрый)
 
