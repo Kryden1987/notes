@@ -40,6 +40,8 @@
 
 [turgor](https://www.turgor.ru/)
 
+[projecteuclid](https://projecteuclid.org/)
+
 ### Разное
 
 [martinbroadhurst](http://www.martinbroadhurst.com/)
