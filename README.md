@@ -42,6 +42,10 @@
 
 [projecteuclid](https://projecteuclid.org/)
 
+[imo-official](http://www.imo-official.org/default.aspx)
+
+[Modern math](https://mccme.ru/dubna/)
+
 ### Разное
 
 [martinbroadhurst](http://www.martinbroadhurst.com/)
@@ -58,7 +62,7 @@
 
 [video_segment](https://github.com/videosegmentation/video_segment)
 
-[imo-official](http://www.imo-official.org/default.aspx)
+
 
 [hcmop](https://hcmop.wordpress.com/)
 
