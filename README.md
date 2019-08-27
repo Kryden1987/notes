@@ -143,6 +143,10 @@
 
 [serialbyter](https://github.com/serialbyter)
 
+[100days](https://github.com/coells/100days)
+
+[w23](https://github.com/w23)
+
 ### Операционные системы
 
 [KolibriOS](https://github.com/callcc/KolibriOS)
