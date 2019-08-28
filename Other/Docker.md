@@ -22,3 +22,8 @@ docker build .
 или
 docker build - < Dockerfile
 ```
+
+Удалить образ
+```
+docker rmi ImageId/ImageName
+```
