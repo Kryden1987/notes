@@ -7,3 +7,12 @@ docker images
 ```
 docker save REPOSITORY > File.tar
 ```
+
+
+
+Формат Dockerfile:
+```
+FROM ubuntu:16.04  
+
+
+```
