@@ -30,6 +30,11 @@ git checkout -b <имя-новой-ветки>
 git branch -a 
 ```
 
+Посмотреть последний коммит на каждой ветке:
+```
+git branch -v
+```
+
 Замержить some_branch в текущую ветку:
 ```
 git merge some_branch
