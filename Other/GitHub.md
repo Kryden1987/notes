@@ -20,6 +20,11 @@ git fetch origin
 git checkout some_branch
 ```
 
+Создать новую ветку и переключиться на нее:
+```
+git checkout -b <имя-новой-ветки>
+```
+
 Просмотреть все существующие ветви:
 ```
 git branch -a 
