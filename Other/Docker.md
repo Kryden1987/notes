@@ -22,10 +22,10 @@ docker build .
 или
 docker build - < Dockerfile
 или
-docker build -t ImageName
+docker build -t ImageName .
 ```
 
 Удалить образ
 ```
-docker rmi ImageId/ImageName
+docker rmi ImageId/ImageName 
 ```
