@@ -21,6 +21,8 @@ RUN  apt update
 docker build .
 или
 docker build - < Dockerfile
+или
+docker build -t ImageName
 ```
 
 Удалить образ
