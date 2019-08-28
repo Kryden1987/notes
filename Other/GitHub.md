@@ -5,6 +5,11 @@
 git checkout commit
 ```
 
+Добавить upstream:
+```
+git remote add upstream some_git
+```
+
 Скачать все ветки с origin, но не мержить их в локальный репозиторий:
 ```
 git fetch origin
