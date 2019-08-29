@@ -29,3 +29,8 @@ docker build -t ImageName .
 ```
 docker rmi ImageId/ImageName 
 ```
+
+Запустить команду в docker:
+```
+docker run -it   ImageName  /bin/bash
+```
