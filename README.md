@@ -62,7 +62,7 @@
 
 [video_segment](https://github.com/videosegmentation/video_segment)
 
-
+[kristerw](https://kristerw.blogspot.com/)
 
 [hcmop](https://hcmop.wordpress.com/)
 
@@ -146,6 +146,7 @@
 [100days](https://github.com/coells/100days)
 
 [w23](https://github.com/w23)
+
 
 ### Операционные системы
 
