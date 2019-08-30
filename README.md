@@ -80,6 +80,8 @@
 
 [fluentcpp](http://www.fluentcpp.com/)
 
+[brevzin](https://brevzin.github.io/)
+
 
 ## Гитхабы
 
@@ -147,6 +149,7 @@
 
 [w23](https://github.com/w23)
 
+[BRevzin](https://github.com/BRevzin)
 
 ### Операционные системы
 
