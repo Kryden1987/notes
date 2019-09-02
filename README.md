@@ -24,6 +24,10 @@
 
 [Packt](https://github.com/PacktPublishing)
 
+[christianperone](http://blog.christianperone.com/)
+
+[attractivechaos](https://attractivechaos.wordpress.com/)
+
 ### Математика
 
 [putnum](https://kskedlaya.org/putnam-archive/)
@@ -83,6 +87,8 @@
 [brevzin](https://brevzin.github.io/)
 
 [indy256](https://sites.google.com/site/indy256/)
+
+[usamo](https://usamo.wordpress.com/)
 
 ## Гитхабы
 
