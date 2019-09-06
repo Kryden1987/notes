@@ -160,6 +160,8 @@
 
 [emeryberger](https://github.com/emeryberger)
 
+[loganchien](https://github.com/loganchien)
+
 ### Операционные системы
 
 [KolibriOS](https://github.com/callcc/KolibriOS)
