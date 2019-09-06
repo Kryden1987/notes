@@ -158,6 +158,8 @@
 
 [BRevzin](https://github.com/BRevzin)
 
+[emeryberger](https://github.com/emeryberger)
+
 ### Операционные системы
 
 [KolibriOS](https://github.com/callcc/KolibriOS)
