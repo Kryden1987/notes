@@ -90,6 +90,8 @@
 
 [usamo](https://usamo.wordpress.com/)
 
+[tcbrindle](https://github.com/tcbrindle)
+
 ## Гитхабы
 
 [MIPS](https://github.com/MIPS)
