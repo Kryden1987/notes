@@ -59,3 +59,13 @@ git mergetool
 ```
 git log --reverse
 ```
+
+Tag это момент в истории. Посмотреть список tag можно
+```
+git tag
+```
+
+Переключиться на тег можно командой
+```
+git checkout TagName
+```
