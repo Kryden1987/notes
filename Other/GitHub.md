@@ -69,3 +69,8 @@ git tag
 ```
 git checkout TagName
 ```
+
+Посмотреть имена измененных файлов
+```
+git log --name-only 
+```
