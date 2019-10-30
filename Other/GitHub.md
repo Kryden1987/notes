@@ -79,3 +79,9 @@ git checkout TagName
 ```
 git log --name-only 
 ```
+
+Удобный вывод лога:
+```
+git log --graph --pretty=oneline --abbrev-commit --all --decorate --grep "\[Tizen\]"
+```
+
