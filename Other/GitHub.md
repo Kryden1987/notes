@@ -85,3 +85,7 @@ git log --name-only
 git log --graph --pretty=oneline --abbrev-commit --all --decorate --grep "\[Tizen\]"
 ```
 
+Позволяет посмотреть когда и кем редактировалась каждая строка файла в последний раз
+```
+git blame FileName
+```
