@@ -166,6 +166,8 @@
 
 [TASVideos](https://github.com/TASVideos)
 
+[gco](https://github.com/gco)
+
 ### Операционные системы
 
 [KolibriOS](https://github.com/callcc/KolibriOS)
